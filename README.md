@@ -27,3 +27,15 @@ send_email.py
 
 
 
+run_server.sh
+
+这个是linux下运行的脚本
+
+
+
+Snipaste_2022-03-01_11-31-21.png
+
+是网页运行的结果
+
+
+
