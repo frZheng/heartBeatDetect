@@ -19,6 +19,8 @@ hbWeb.py
 
 修改IpAddr为阿里云的内网地址, IpAddr_out为阿里云的外网地址.
 
+网页每10秒自动刷新.
+
 
 
 send_email.py
